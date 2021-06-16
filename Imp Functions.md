@@ -1,12 +1,12 @@
 # IMP Functions
 
 1. Self
-        '''
+        ```
         self.search_depth = search_depth
         self.score = score_fn
         self.time_left = None
         self.TIMER_THRESHOLD = timeout
-        '''
+        ```
 1. game
         ```
         apply_move(move)
