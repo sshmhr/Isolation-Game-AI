@@ -15,7 +15,6 @@ get_legal_moves(player)
 get_opponent(player)
 get_player_location(player)   
 is_loser(player)
-
 is_winner(player)
 move_is_legal(move)
 utility(player)
